@@ -5,8 +5,8 @@ A clean and responsive web-based task manager built using **HTML**, **CSS**, and
 
 
 ## 🚀 Features
- View a list of tasks
- View a list of tasks
+ 
+- View a list of tasks
 - ➕ Add a new task
 - ✔️ Mark a task as completed
 - ❌ Delete a task
